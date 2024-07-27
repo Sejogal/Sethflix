@@ -1,0 +1,81 @@
+h1{
+    color: red; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tit{
+    color: red;
+    text-decoration: none;
+}
+
+body{
+    background-image: linear-gradient(black 45%,red);
+     
+}
+
+ul{
+    background-color: black;
+} 
+li{
+    display: inline-block;
+    color:white;
+    padding-left: 3%;
+    
+}
+
+
+.b{
+    border: solid red;
+    
+}
+
+div{
+    padding:3%;
+    display: inline-block;
+    width: 200px;
+    position:relative;
+    left: 7%;
+}
+
+p{
+    color: white;
+}
+/*Fundo da sinopse*/
+.next{
+    height: auto;
+    width: 40%;
+    background-image: linear-gradient(black 45%, red );
+    
+}
+
+iframe{
+    display: inline-block;
+    position: relative;
+    left:10%;
+}
+
+#iframePlay{
+    position: relative;
+    left:6%;
+}
+
+
+#bto{
+    text-decoration: none;
+    background-image: linear-gradient(black 45%, red );
+    color: white;
+    position: relative;
+    left: 245%;
+    padding: 5%;
+    border-radius: 7%;
+}
+
+#tituloDoFilme{
+   
+    background-image: linear-gradient(black 45%, red );
+    
+}
+
+.inferior{
+    padding: 5%;
+    color: white;
+}
